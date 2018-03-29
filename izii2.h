@@ -14,3 +14,7 @@ void arrayToBitBoards(char[][BOARD_SIZE],
                       long *, long *, long *,
                       long *, long *, long *,
                       long *, long *, long *);
+void printBoard(long, long, long,
+                long, long, long,
+                long, long, long,
+                long, long, long);

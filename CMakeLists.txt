@@ -7,6 +7,4 @@ add_executable(testarrayToBitBoards
         izii2.h
         arrayToBitBoards.c
         testarrayToBitBoards.c
-
-        constants.h
-        )
+        printBoard.c)
