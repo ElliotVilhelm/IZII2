@@ -18,3 +18,5 @@ void printBoard(long, long, long,
                 long, long, long,
                 long, long, long,
                 long, long, long);
+
+char * get_moves_WP(char *, long);

@@ -8,3 +8,6 @@ add_executable(testarrayToBitBoards
         arrayToBitBoards.c
         testarrayToBitBoards.c
         printBoard.c)
+add_executable(testgenMoves
+        izii2.h
+        printBoard.c generateMoves.c testgenerateMoves.c)
